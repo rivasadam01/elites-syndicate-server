@@ -1,4 +1,4 @@
-Elites Server
+Elites Syndicate Server
 
 1. Create virtual environment
 2. Activate virtual environment
