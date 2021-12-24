@@ -8,4 +8,5 @@ cert = path.join(basedir, '../cert')
 app = Flask(__name__)
 CORS(app)
 
+# *The following imports must stay here
 import elites.routes
